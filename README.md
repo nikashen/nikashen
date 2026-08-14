@@ -2,12 +2,13 @@
 
 I build evidence-first machine-learning systems: reproducible evaluation, explicit data boundaries, deployable interfaces, and honest negative results.
 
-专注算法与 ML Engineering，覆盖 LLM/RAG、检索排序、多模态、图学习、视觉异常检测与时间序列。每个公开项目都提供可运行演示、自动化测试和冻结发布证据；不把 toy demo 包装成真实业务效果。
+专注算法与 ML Engineering，覆盖 LLM/RAG、检索排序、多模态、图学习、视觉异常检测、时间序列与语音音频。每个公开项目都提供可运行演示、自动化测试和冻结发布证据；不把 toy demo 包装成真实业务效果。
 
 ## Selected portfolio
 
 | Project | Algorithm / engineering focus | Public evidence |
 | --- | --- | --- |
+| [EchoForge-ASR](https://github.com/nikashen/EchoForge-ASR) | Chinese streaming ASR, PCM WebSocket protocol, VAD, transcript revision, robustness evidence | [Demo](https://nikashen.github.io/EchoForge-ASR/) · [Release](https://github.com/nikashen/EchoForge-ASR/releases/tag/v0.1.0)
 | [ChronosGuard-TS](https://github.com/nikashen/ChronosGuard-TS) | Leakage-aware forecasting, conformal intervals, anomaly detection, online replay | [Demo](https://nikashen.github.io/ChronosGuard-TS/) · [Release](https://github.com/nikashen/ChronosGuard-TS/releases/tag/chronosguard-v0.3.0-ett-rolling) |
 | [GraphShield-Fraud](https://github.com/nikashen/GraphShield-Fraud) | Temporal graph fraud detection, GraphSAGE, investigation workflow | [Demo](https://nikashen.github.io/GraphShield-Fraud/) · [Release](https://github.com/nikashen/GraphShield-Fraud/releases/tag/graphshield-v0.2.2-public) |
 | [MOSAIC-Retrieval](https://github.com/nikashen/MOSAIC-Retrieval) | Image/video-text retrieval, CLIP, FAISS, cold-start encoding | [Demo](https://nikashen.github.io/MOSAIC-Retrieval/) · [Release](https://github.com/nikashen/MOSAIC-Retrieval/releases/tag/v1.0.0) |
