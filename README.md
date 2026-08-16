@@ -8,7 +8,7 @@ I build evidence-first machine-learning systems: reproducible evaluation, explic
 
 | Project | Algorithm / engineering focus | Public evidence |
 | --- | --- | --- |
-| [EchoForge-ASR](https://github.com/nikashen/EchoForge-ASR) | Chinese streaming ASR, PCM WebSocket protocol, VAD, transcript revision, robustness evidence | [Demo](https://nikashen.github.io/EchoForge-ASR/) · [Release](https://github.com/nikashen/EchoForge-ASR/releases/tag/v0.1.1) |
+| [EchoForge-ASR](https://github.com/nikashen/EchoForge-ASR) | Chinese streaming ASR, PCM WebSocket protocol, VAD, transcript revision, robustness evidence | [Demo](https://nikashen.github.io/EchoForge-ASR/) · [Release](https://github.com/nikashen/EchoForge-ASR/releases/tag/v0.1.2) |
 | [ChronosGuard-TS](https://github.com/nikashen/ChronosGuard-TS) | Leakage-aware forecasting, conformal intervals, anomaly detection, online replay | [Demo](https://nikashen.github.io/ChronosGuard-TS/) · [Release](https://github.com/nikashen/ChronosGuard-TS/releases/tag/chronosguard-v0.3.0-ett-rolling) |
 | [GraphShield-Fraud](https://github.com/nikashen/GraphShield-Fraud) | Temporal graph fraud detection, GraphSAGE, investigation workflow | [Demo](https://nikashen.github.io/GraphShield-Fraud/) · [Release](https://github.com/nikashen/GraphShield-Fraud/releases/tag/graphshield-v0.2.2-public) |
 | [MOSAIC-Retrieval](https://github.com/nikashen/MOSAIC-Retrieval) | Image/video-text retrieval, CLIP, FAISS, cold-start encoding | [Demo](https://nikashen.github.io/MOSAIC-Retrieval/) · [Release](https://github.com/nikashen/MOSAIC-Retrieval/releases/tag/v1.0.0) |
